@@ -9,3 +9,5 @@ analisa
 big 
 data
 ekonomika
+
+arasy
