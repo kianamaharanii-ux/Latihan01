@@ -1,0 +1,2 @@
+# Latihan01
+masyaallah
